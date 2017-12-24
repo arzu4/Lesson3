@@ -1,0 +1,33 @@
+header{
+	height: 39px;
+	width: 100%;
+	background-color: #313332;
+}
+.logo{
+	float: left;
+	color: white;
+	margin-right: 100px;
+	margin-top: 10px;
+}
+.logo span{
+	color: white;
+    font-size: 25px;
+    margin-left: 120px;	
+}
+.header-section{
+	float: right;
+	margin-right: 120px;
+    margin-top: 7px;
+}
+.header-section a{
+	text-decoration: none;
+	color: white;
+	padding: 8px;
+}
+.header-section a:hover{
+	color: #00C7E8
+}
+.img{
+	width: 100%
+	height: auto;
+}
